@@ -1,100 +1,100 @@
-Johnny Coder
+Ferit Tunçer
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  Software Engineer — Hobby Chess Player
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2011-2017
+:   **BSc, Computer Engineering**; Marmara University (Istanbul)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+    *Bachelor's thesis in natural language processing*
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+**Software Engineer @ Melina Aero - Feb 2017 to Mar 2018**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+In a lead back-end engineer role on a micro startup environment with wide responsibilities, I was responsible for software architecture, lifecycle, quality assurance and DevOps in developing a product which does modeling, simulation and optimization of thermodynamic cycles.
 
-* First item
+During the time I work, I
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+  * helped the team to adopt unit testing, clean coding, developing respect to design patterns, Git VCS and GitHub Flow workflow
+  * integrated continuous integration to our workflow using Jenkins and TeamCity including automated tests, code reviews and test coverages
+  * elicited business requirements and designed and documented software architecture
+  * managed migration of the existing codebase in Matlab to C# in order to have better tooling in .NET environment.
+  * implemented application and data access layer
+  * wrote unit, system and integration tests in xUnit and MSTest
+  * administered and maintained hardware and software of our build server  
 
-**That Other Job You Had**
 
-Also with a short description.
+**Marmara Turkish Coreference Corpus and Coreference Resolution Baseline   
+@ Marmara University - Sep 2015 to Jan 2017**
+
+As my bachelor's thesis I co-authored [Marmara Turkish Coreference Corpus
+and Coreference Resolution Baseline](https://arxiv.org/abs/1706.01863).
+
+With the lead of my advisor [Peter Schüller](http://www.peterschueller.com/),
+
+  * created an algorithm for Turkish mention detection and co-reference resolution
+  * created [a command-line interface tool in Python3](https://github.com/ferittuncer/ITU-Turkish-NLP-Pipeline-Caller) to ease access to the [İTÜ NLP Pipeline](http://tools.nlp.itu.edu.tr/).
+
+
+**Software Developer @ VakıfBank - Sep 2013 to Jan 2014**
+
+I was responsible integrating customers' payment processors via web services to the bank's payment processor written in .NET. During the time I work, my integrations for several betting companies such as Nesine.com, Misli.com, TJK.org, and several others deployed to production.
+
+
+**Software Development Intern @ VakıfBank - Jul 2013 to Sep 2013**
+
+I took part in researching the economic and technical feasibility of using Microsoft BizTalk for building an enterprise service bus.
+
+
+**Programmer @ Marmara University - Feb 2012 to Apr 2014**
+
+I programmed and maintained a software tool in Java for benchmarking newly developed algorithm for the problem of scheduling on a single machine to minimize the maximum lateness when each job has a different ready time, processing time, and due date. This work is published as follows: [Calis, Banu, Serol Bulkan, and Ferit Tuncer. "A heuristic approach to minimizing maximum lateness on a single machine." South African Journal of Industrial Engineering 26.3 (2015): 41-53.](https://journals.co.za/content/indeng/26/3/EJC181212)
+
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
-
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
 Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+:   As a member of the maintainer team I contributed in [**Units.Net**](https://github.com/angularsen/UnitsNet) various ways such as implementing new quantities, new units, new conversions and reviewing pull requests.   
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+    Translated [**qTox**](https://github.com/qTox/qTox) GUI to Turkish
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+Skills
+:   Advanced in **Git**, **GitHub**, **C#**, **Python**, **Java**, **Defensive Programming**
 
-[ref]: https://github.com/githubuser/superlongprojectname
+    Experienced in **Unit Testing**, **xUnit**, **MSTest**, **MSSQL**, **SQLite**, **Linux**, **Bash**
 
-Extra Section, Call it Whatever You Want
+    Has basic knowledge in **Solidity**, **Network**,  **Ruby**, **C**, **x86 assembly**, **Prolog**, **Haskell**
+
+
+Non-Technical Experience & Interests
 ----------------------------------------
 
 * Human Languages:
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+     * English (advanced)
+     * Turkish (native)
+     * German (beginner-intermediate).
+     
 
-* Random tidbit
+* Hobby chess player at lichess.org. [Challange me! :)](https://lichess.org/@/SubbZzero)
 
-* Other sort of impressive-sounding thing you did
+
+* Interested in free software, cryptography, decentralization, blockchain, cyber-security, clean coding
+
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <ferit@cryptolab.net> • +90 536 706 0088 • 26 years old\
+> Kadıköy - Istanbul, Turkey

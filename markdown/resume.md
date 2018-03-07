@@ -10,8 +10,11 @@ Ferit Tunçer
 Education
 ---------
 
-2011-2017
+2011 to 2017
 :   **BSc, Computer Engineering**; Marmara University (Istanbul)
+
+Feb 2015 to July 2015
+:    **BSc, Erasmus, Computer Engineering**; Budapest University of Technology and Economics (Budapest)
 
     *Bachelor's thesis in natural language processing*
 
@@ -47,7 +50,7 @@ With the lead of my advisor [Peter Schüller](http://www.peterschueller.com/),
 
 **Software Developer @ VakıfBank - Sep 2013 to Jan 2014**
 
-I was responsible integrating customers' payment processors via web services to the bank's payment processor written in .NET. During the time I work, my integrations for several betting companies such as Nesine.com, Misli.com, TJK.org, and several others deployed to production.
+I was responsible for integrating customers' payment processors via web services to the bank's payment processor written in .NET. During the time I work, my integrations for several betting companies such as Nesine.com, Misli.com, TJK.org, and several others deployed to production.
 
 
 **Software Development Intern @ VakıfBank - Jul 2013 to Sep 2013**
@@ -78,7 +81,7 @@ Skills
     Has basic knowledge in **Solidity**, **Network**,  **Ruby**, **C**, **x86 assembly**, **Prolog**, **Haskell**
 
 
-Non-Technical Experience & Interests
+Other Experiences & Interests & Honors
 ----------------------------------------
 
 * Human Languages:
@@ -90,11 +93,12 @@ Non-Technical Experience & Interests
 
 * Hobby chess player at lichess.org. [Challange me! :)](https://lichess.org/@/SubbZzero)
 
+* 2nd place at 2012 Marmara University Programming Contest
 
-* Interested in free software, cryptography, decentralization, blockchain, cyber-security, clean coding
-
+* Interested in free and open source software, cryptography, decentralization, blockchain, cyber-security, clean coding, programming contests
+ 
 
 ----
 
-> <ferit@cryptolab.net> • +90 536 706 0088 • 26 years old\
+> <ferit@cryptolab.net> • +90 536 706 0088 • [linkedin.com/in/ferit-tuncer/](https://www.linkedin.com/in/ferit-tuncer/)\
 > Kadıköy - Istanbul, Turkey
